@@ -4,4 +4,7 @@
 *.res
 *.dcu
 *.exe
+*.identcache
+*.zip
 __history
+__recovery
